@@ -1,9 +1,0 @@
-# build dirs
-*_build/
-build/
-openauto_build/
-aasdk_build/
-
-# OS cruft
-.DS_Store
-Thumbs.db

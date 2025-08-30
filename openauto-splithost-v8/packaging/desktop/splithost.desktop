@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=SplitHost (OpenAuto + UI)
+Exec=/usr/local/bin/splithost --openauto /opt/openauto-ce/openauto/build/autoapp --title OpenAuto
+Terminal=false
+Categories=Utility;
